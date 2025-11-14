@@ -1,0 +1,6 @@
+Configurando o git
+git config --global user.name bgsana
+git config --global user.email bgs.ana08@gmail.com
+--------------------------------------------------
+Instalando bibliotecas
+npm i
